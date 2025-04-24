@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "wulan17",
+    "telegram": "wulan17",
+    "github": "wulan17"
+  },
+  "model": "Redmi 13C / Poco C65",
+  "vendor": "Xiaomi",
+  "codename": "gale",
+  "status": "Active",
+  "version": "varanus",
+  "androidVersion": "15.0",
+  "lastUpdated": "2025-04-24",
+  "supportGroup" : "https://t.me/KomodOSGroup",
+  "downloadUrl": "https://www.pling.com/p/1861110/"
+}
