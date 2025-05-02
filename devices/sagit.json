@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+  "name": "deny2311",
+  "telegram": "deny2311",
+  "github": "deny2311"
+  },
+  "model": "Xiaomi Mi 6",
+  "vendor": "Xiaomi",
+  "codename": "sagit",
+  "status": "Active",
+  "version": "varanus",
+  "androidVersion": "15.0",
+  "lastUpdated": "2025-04-30",
+  "supportGroup" : "https://t.me/KomodOSGroup",
+  "downloadUrl": "https://www.pling.com/p/1861110/"
+}
