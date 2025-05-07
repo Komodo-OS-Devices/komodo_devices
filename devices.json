@@ -1,0 +1,373 @@
+{
+  "devices": [
+    {
+      "id": "1",
+      "name": "Poco M3",
+      "brand": "Xiaomi",
+      "version": "Sweetpea",
+      "androidVersion": "12.1",
+      "codename": "juice",
+      "maintainer": "frost"
+    },
+    {
+      "id": "2",
+      "name": "Poco X3 NFC",
+      "brand": "Xiaomi",
+      "version": "Sakura",
+      "androidVersion": "12.1",
+      "codename": "surya",
+      "maintainer": ". ƒαυzαη"
+    },
+    {
+      "id": "3",
+      "name": "Poco X3 Pro",
+      "brand": "Xiaomi",
+      "version": "Seroja",
+      "androidVersion": "12.1",
+      "codename": "vayu",
+      "maintainer": "𝚊𝚕𝚊𝚗𝚗𝚍𝚣 & Dzaky"
+    },
+    {
+      "id": "4",
+      "name": "Poco F1",
+      "brand": "Xiaomi",
+      "version": "Serunai",
+      "androidVersion": "12.1",
+      "codename": "beryllium",
+      "maintainer": "Adzaky"
+    },
+    {
+      "id": "5",
+      "name": "Redmi 4X",
+      "brand": "Xiaomi",
+      "version": "Sabre",
+      "androidVersion": "12.1",
+      "codename": "santoni",
+      "maintainer": "ItoRenz"
+    },
+    {
+      "id": "6",
+      "name": "Redmi 4A/5A",
+      "brand": "Xiaomi",
+      "version": "Raptor",
+      "androidVersion": "12.1",
+      "codename": "rova",
+      "maintainer": "ItoRenz"
+    },
+    {
+      "id": "7",
+      "name": "Redmi 5",
+      "brand": "Xiaomi",
+      "version": "Rattle",
+      "androidVersion": "12.1",
+      "codename": "rosy",
+      "maintainer": "Neno"
+    },
+    {
+      "id": "8",
+      "name": "Redmi 5 Plus",
+      "brand": "Xiaomi",
+      "version": "Reptile",
+      "androidVersion": "11",
+      "codename": "vince",
+      "maintainer": "Aurora"
+    },
+    {
+      "id": "9",
+      "name": "Redmi 6/6A Unified",
+      "brand": "Xiaomi",
+      "version": "Pantura",
+      "androidVersion": "11",
+      "codename": "certus",
+      "maintainer": "wulan17"
+    },
+    {
+      "id": "10",
+      "name": "Redmi 7",
+      "brand": "Xiaomi",
+      "version": "Sweetpea",
+      "androidVersion": "12.1",
+      "codename": "onclite",
+      "maintainer": "Hadad"
+    },
+    {
+      "id": "11",
+      "name": "Redmi 8/8A/8A Dual",
+      "brand": "Xiaomi",
+      "version": "Sakura",
+      "androidVersion": "12.1",
+      "codename": "olives",
+      "maintainer": "skittels15"
+    },
+    {
+      "id": "12",
+      "name": "Redmi 9 / Poco M2",
+      "brand": "Xiaomi",
+      "version": "Seroja",
+      "androidVersion": "12.1",
+      "codename": "lava",
+      "maintainer": "mikazuuu07"
+    },
+    {
+      "id": "13",
+      "name": "Redmi 9T",
+      "brand": "Xiaomi",
+      "version": "Serunai",
+      "androidVersion": "12.1",
+      "codename": "juice",
+      "maintainer": "fais"
+    },
+    {
+      "id": "14",
+      "name": "Redmi 10",
+      "brand": "Xiaomi",
+      "version": "Sabre",
+      "androidVersion": "12.1",
+      "codename": "selene",
+      "maintainer": "mikazuuu07"
+    },
+    {
+      "id": "15",
+      "name": "Redmi 10C",
+      "brand": "Xiaomi",
+      "version": "Raptor",
+      "androidVersion": "12.1",
+      "codename": "fog",
+      "maintainer": "ⓓⓑⓛⓔⓝⓚ"
+    },
+    {
+      "id": "16",
+      "name": "Redmi Note 4X",
+      "brand": "Xiaomi",
+      "version": "Rattle",
+      "androidVersion": "12.1",
+      "codename": "mido",
+      "maintainer": "Rafiester"
+    },
+    {
+      "id": "17",
+      "name": "Redmi Note 5",
+      "brand": "Xiaomi",
+      "version": "Reptile",
+      "androidVersion": "11",
+      "codename": "whyred",
+      "maintainer": "Ayush"
+    },
+    {
+      "id": "18",
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "version": "Pantura",
+      "androidVersion": "11",
+      "codename": "tulip",
+      "maintainer": "MOCHA"
+    },
+    {
+      "id": "19",
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "version": "Sweetpea",
+      "androidVersion": "12.1",
+      "codename": "lavender",
+      "maintainer": "𝐭𝐫𝐢𝐬𝐟"
+    },
+    {
+      "id": "20",
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "version": "Sakura",
+      "androidVersion": "12.1",
+      "codename": "violet",
+      "maintainer": "Thunder105"
+    },
+    {
+      "id": "21",
+      "name": "Redmi Note 8/8T",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "ginkgo",
+      "maintainer": "Hirokixd"
+    },
+    {
+      "id": "22",
+      "name": "Redmi Note 8 Pro",
+      "brand": "Xiaomi",
+      "version": "Serunai",
+      "androidVersion": "12.1",
+      "codename": "begonia",
+      "maintainer": "TeraaBytee"
+    },
+    {
+      "id": "23",
+      "name": "Redmi Note 9",
+      "brand": "Xiaomi",
+      "version": "Sabre",
+      "androidVersion": "12.1",
+      "codename": "merlinx",
+      "maintainer": "Luigiee"
+    },
+    {
+      "id": "24",
+      "name": "Redmi Note 9 Pro",
+      "brand": "Xiaomi",
+      "version": "Raptor",
+      "androidVersion": "12.1",
+      "codename": "joyeuse",
+      "maintainer": "KryPtoN"
+    },
+    {
+      "id": "25",
+      "name": "Redmi Note 10",
+      "brand": "Xiaomi",
+      "version": "Rattle",
+      "androidVersion": "12.1",
+      "codename": "mojito",
+      "maintainer": "dblenk9"
+    },
+    {
+      "id": "26",
+      "name": "Redmi Note 10 Pro/Max",
+      "brand": "Xiaomi",
+      "version": "Reptile",
+      "androidVersion": "11",
+      "codename": "sweet",
+      "maintainer": "Djampt"
+    },
+    {
+      "id": "27",
+      "name": "Redmi Note 11",
+      "brand": "Xiaomi",
+      "version": "Pantura",
+      "androidVersion": "11",
+      "codename": "spes",
+      "maintainer": "dblenk9"
+    },
+    {
+      "id": "28",
+      "name": "OnePlus 7T",
+      "brand": "Oneplus",
+      "version": "Sweetpea",
+      "androidVersion": "12.1",
+      "codename": "op7t",
+      "maintainer": "Developer"
+    },
+    {
+      "id": "29",
+      "name": "OnePlus Nord",
+      "brand": "Oneplus",
+      "version": "Sakura",
+      "androidVersion": "12.1",
+      "codename": "nord",
+      "maintainer": "Developer"
+    },
+    {
+      "id": "30",
+      "name": "Mi 6",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "sagit",
+      "maintainer": "deny2311"
+    },
+    {
+      "id": "31",
+      "name": "Mi 9",
+      "brand": "Xiaomi",
+      "version": "Serunai",
+      "androidVersion": "12.1",
+      "codename": "cepheus",
+      "maintainer": "𝐭𝐫𝐢𝐬𝐟‌‌"
+    },
+    {
+      "id": "32",
+      "name": "Moto G7 Power",
+      "brand": "Motorola",
+      "version": "Sabre",
+      "androidVersion": "12.1",
+      "codename": "ocean",
+      "maintainer": "Ignacio Garcia"
+    },
+    {
+      "id": "33",
+      "name": "Realme C2",
+      "brand": "Realme",
+      "version": "Raptor",
+      "androidVersion": "12.1",
+      "codename": "RMX1941",
+      "maintainer": "Fraschze97"
+    },
+    {
+      "id": "34",
+      "name": "Realme C3",
+      "brand": "Realme",
+      "version": "Rattle",
+      "androidVersion": "12.1",
+      "codename": "RMX2020",
+      "maintainer": "Felixxandi79"
+    },
+    {
+      "id": "35",
+      "name": "Realme Narzo 10A",
+      "brand": "Realme",
+      "version": "Reptile",
+      "androidVersion": "11",
+      "codename": "RMX2020",
+      "maintainer": "Felixxandi79"
+    },
+    {
+      "id": "36",
+      "name": "Realme 5",
+      "brand": "Realme",
+      "version": "Pantura",
+      "androidVersion": "11",
+      "codename": "RMX1911",
+      "maintainer": "henshin"
+    },
+    {
+      "id": "37",
+      "name": "Realme 5i",
+      "brand": "Realme",
+      "version": "Sweetpea",
+      "androidVersion": "12.1",
+      "codename": "RMX2030",
+      "maintainer": "henshin"
+    },
+    {
+      "id": "38",
+      "name": "Redmi 13C / Poco C65",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "gale",
+      "maintainer": "wulan17"
+    },
+    {
+      "id": "39",
+      "name": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "miatoll",
+      "maintainer": "trisf"
+    },
+    {
+      "id": "40",
+      "name": "POCO F5/Redmi Note 12 Turbo",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "marble",
+      "maintainer": "Mauls"
+    },
+    {
+      "id": "41",
+      "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "garnet",
+      "maintainer": "Byben"
+    }
+  ]
+}
