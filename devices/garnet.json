@@ -1,0 +1,16 @@
+{
+    "maintainer": {
+    "name": "Byben",
+    "telegram": "ramaadni",
+    "github": "ramaadni"
+    },
+    "model": "Redmi Note 13 Pro 5G / POCO X6 5G",
+    "vendor": "POCO",
+    "codename": "garnet",
+    "status": "Active",
+    "version": "varanus",
+    "androidVersion": "15.0",
+    "lastUpdated": "2025-05-07",
+    "supportGroup" : "https://t.me/rmdnsupport",
+    "downloadUrl": "https://www.pling.com/p/1861110/"
+  }
