@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Ido",
+    "telegram": "rthedream",
+    "github": "xyzuniverse"
+  },
+  "model": "Redmi 11 Prime / POCO M5",
+  "vendor": "Xiaomi",
+  "codename": "rock",
+  "status": "Active",
+  "version": "varanus",
+  "androidVersion": "15.0",
+  "lastUpdated": "2025-05-08",
+  "supportGroup" : "https://t.me/KomodOSGroup",
+  "downloadUrl": "https://www.pling.com/p/1861110/"
+}
