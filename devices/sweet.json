@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Djampt",
+    "telegram": "Djampt",
+    "github": "Djampt"
+  },
+  "model": "Redmi Note 10 Pro/Max",
+  "vendor": "Xiaomi",
+  "codename": "sweet",
+  "status": "Inactive",
+  "version": "Reptile",
+  "androidVersion": "11",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

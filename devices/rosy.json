@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Neno",
+    "telegram": "Neno",
+    "github": "Neno"
+  },
+  "model": "Redmi 5",
+  "vendor": "Xiaomi",
+  "codename": "rosy",
+  "status": "Inactive",
+  "version": "Rattle",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

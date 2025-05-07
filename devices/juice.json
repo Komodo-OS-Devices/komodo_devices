@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "frost",
+    "telegram": "frost",
+    "github": "frost"
+  },
+  "model": "Poco M3",
+  "vendor": "Xiaomi",
+  "codename": "juice",
+  "status": "Inactive",
+  "version": "Sweetpea",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

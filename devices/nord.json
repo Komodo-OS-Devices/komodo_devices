@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Developer",
+    "telegram": "Developer",
+    "github": "Developer"
+  },
+  "model": "OnePlus Nord",
+  "vendor": "Oneplus",
+  "codename": "nord",
+  "status": "Inactive",
+  "version": "Sakura",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

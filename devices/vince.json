@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Aurora",
+    "telegram": "Aurora",
+    "github": "Aurora"
+  },
+  "model": "Redmi 5 Plus",
+  "vendor": "Xiaomi",
+  "codename": "vince",
+  "status": "Inactive",
+  "version": "Reptile",
+  "androidVersion": "11",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

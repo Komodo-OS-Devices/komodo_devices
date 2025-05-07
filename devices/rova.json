@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "ItoRenz",
+    "telegram": "ItoRenz",
+    "github": "ItoRenz"
+  },
+  "model": "Redmi 4A/5A",
+  "vendor": "Xiaomi",
+  "codename": "rova",
+  "status": "Inactive",
+  "version": "Raptor",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

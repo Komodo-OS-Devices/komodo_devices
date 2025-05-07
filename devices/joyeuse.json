@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "KryPtoN",
+    "telegram": "KryPtoN",
+    "github": "KryPtoN"
+  },
+  "model": "Redmi Note 9 Pro",
+  "vendor": "Xiaomi",
+  "codename": "joyeuse",
+  "status": "Inactive",
+  "version": "Raptor",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

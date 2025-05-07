@@ -1,16 +1,16 @@
 {
-   "maintainer": {
-     "name": "bmwtheseries",
-     "telegram": "bmwtheseries",
-     "github": "BayerischeMotorenWerke"
-   },
-   "model": "Redmi Note 4",
-   "vendor": "Xiaomi",
-   "codename": "mido",
-   "status": "Active",
-   "version": "varanus",
-   "androidVersion": "15.0",
-   "lastUpdated": "2025-05-09",
-   "supportGroup" : "https://t.me/KomodOSGroup",
-   "downloadUrl": "https://www.pling.com/p/1861110/"
+  "maintainer": {
+    "name": "bmwtheseries",
+    "telegram": "bmwtheseries",
+    "github": "BayerischeMotorenWerke"
+  },
+  "model": "Redmi Note 4",
+  "vendor": "Xiaomi",
+  "codename": "mido",
+  "status": "Active",
+  "version": "varanus",
+  "androidVersion": "15.0",
+  "lastUpdated": "2025-05-09",
+  "supportGroup": "https://t.me/KomodOSGroup",
+  "downloadUrl": "https://www.pling.com/p/1861110/"
 }

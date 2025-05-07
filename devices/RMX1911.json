@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "henshin",
+    "telegram": "henshin",
+    "github": "henshin"
+  },
+  "model": "Realme 5",
+  "vendor": "Realme",
+  "codename": "RMX1911",
+  "status": "Inactive",
+  "version": "Pantura",
+  "androidVersion": "11",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Developer",
+    "telegram": "Developer",
+    "github": "Developer"
+  },
+  "model": "OnePlus 7T",
+  "vendor": "Oneplus",
+  "codename": "op7t",
+  "status": "Inactive",
+  "version": "Sweetpea",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

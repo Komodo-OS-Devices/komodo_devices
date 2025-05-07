@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "henshin",
+    "telegram": "henshin",
+    "github": "henshin"
+  },
+  "model": "Realme 5i",
+  "vendor": "Realme",
+  "codename": "RMX2030",
+  "status": "Inactive",
+  "version": "Sweetpea",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

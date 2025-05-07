@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "Ignacio Garcia",
+    "telegram": "Ignacio Garcia",
+    "github": "Ignacio Garcia"
+  },
+  "model": "Moto G7 Power",
+  "vendor": "Motorola",
+  "codename": "ocean",
+  "status": "Inactive",
+  "version": "Sabre",
+  "androidVersion": "12.1",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}

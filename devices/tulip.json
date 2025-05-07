@@ -1,0 +1,16 @@
+{
+  "maintainer": {
+    "name": "MOCHA",
+    "telegram": "MOCHA",
+    "github": "MOCHA"
+  },
+  "model": "Redmi Note 6 Pro",
+  "vendor": "Xiaomi",
+  "codename": "tulip",
+  "status": "Inactive",
+  "version": "Pantura",
+  "androidVersion": "11",
+  "lastUpdated": "",
+  "supportGroup": "",
+  "downloadUrl": ""
+}
