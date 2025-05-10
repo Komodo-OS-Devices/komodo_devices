@@ -1,0 +1,32 @@
+name: Regen Devices List JSON
+
+on:
+  push:
+    paths:
+      - "devices/**"
+      - ".github/scripts/regen-devices.js"
+
+jobs:
+  regen-devices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Regenerate devices list json
+        run: node .github/scripts/regen-devices.js
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_user_name: KadalPurba-Bot
+          commit_user_email: kadalpurba-bot@komodos.id
+          commit_author: KadalPurba-Bot <kadalpurba-bot@komodos.id>
+          commit_message: "[CI] Regen Devices List JSON"
+          file_pattern: "devices.json"
