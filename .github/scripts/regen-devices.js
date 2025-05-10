@@ -11,7 +11,6 @@ const devices = deviceList.map((filename) => {
   const deviceEntry = JSON.parse(fs.readFileSync(fullPath, "utf8"));
 
   return {
-    id: deviceEntry.codename,
     name: deviceEntry.model,
     brand: deviceEntry.vendor,
     version:
