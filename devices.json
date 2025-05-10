@@ -57,7 +57,7 @@
     {
       "id": "garnet",
       "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
-      "brand": "POCO",
+      "brand": "Xiaomi",
       "version": "Varanus",
       "androidVersion": "15.0",
       "codename": "garnet",
@@ -137,12 +137,12 @@
     },
     {
       "id": "mido",
-      "name": "Redmi Note 4X",
+      "name": "Redmi Note 4",
       "brand": "Xiaomi",
-      "version": "Rattle",
-      "androidVersion": "12.1",
+      "version": "Varanus",
+      "androidVersion": "15.0",
       "codename": "mido",
-      "maintainer": "Rafiester"
+      "maintainer": "BayerischeMotorenWerke"
     },
     {
       "id": "mojito",
@@ -233,6 +233,15 @@
       "androidVersion": "12.1",
       "codename": "RMX2030",
       "maintainer": "henshin"
+    },
+    {
+      "id": "rock",
+      "name": "Redmi 11 Prime / POCO M5",
+      "brand": "Xiaomi",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "rock",
+      "maintainer": "xyzuniverse"
     },
     {
       "id": "rosy",
