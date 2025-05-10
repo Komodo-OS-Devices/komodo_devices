@@ -1,7 +1,6 @@
 {
   "devices": [
     {
-      "id": "begonia",
       "name": "Redmi Note 8 Pro",
       "brand": "Xiaomi",
       "version": "Serunai",
@@ -10,7 +9,6 @@
       "maintainer": "TeraaBytee"
     },
     {
-      "id": "beryllium",
       "name": "POCO F1",
       "brand": "Xiaomi",
       "version": "Serunai",
@@ -19,7 +17,6 @@
       "maintainer": "adzaky"
     },
     {
-      "id": "cepheus",
       "name": "Mi 9",
       "brand": "Xiaomi",
       "version": "Serunai",
@@ -28,7 +25,6 @@
       "maintainer": "𝐭𝐫𝐢𝐬𝐟‌‌"
     },
     {
-      "id": "certus",
       "name": "Redmi 6/6A Unified",
       "brand": "Xiaomi",
       "version": "Pantura",
@@ -37,7 +33,6 @@
       "maintainer": "wulan17"
     },
     {
-      "id": "fog",
       "name": "Redmi 10C",
       "brand": "Xiaomi",
       "version": "Raptor",
@@ -46,7 +41,6 @@
       "maintainer": "ⓓⓑⓛⓔⓝⓚ"
     },
     {
-      "id": "gale",
       "name": "Redmi 13C / Poco C65",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -55,7 +49,6 @@
       "maintainer": "wulan17"
     },
     {
-      "id": "garnet",
       "name": "Redmi Note 13 Pro 5G / POCO X6 5G",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -64,7 +57,6 @@
       "maintainer": "ramaadni"
     },
     {
-      "id": "ginkgo",
       "name": "Redmi Note 8/8T",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -73,7 +65,6 @@
       "maintainer": "Wrdn28"
     },
     {
-      "id": "joyeuse",
       "name": "Redmi Note 9 Pro",
       "brand": "Xiaomi",
       "version": "Raptor",
@@ -82,7 +73,6 @@
       "maintainer": "KryPtoN"
     },
     {
-      "id": "juice",
       "name": "Poco M3",
       "brand": "Xiaomi",
       "version": "Sweetpea",
@@ -91,7 +81,6 @@
       "maintainer": "frost"
     },
     {
-      "id": "lava",
       "name": "Redmi 9 / Poco M2",
       "brand": "Xiaomi",
       "version": "Seroja",
@@ -100,7 +89,6 @@
       "maintainer": "mikazuuu07"
     },
     {
-      "id": "lavender",
       "name": "Redmi Note 7",
       "brand": "Xiaomi",
       "version": "Sweetpea",
@@ -109,7 +97,6 @@
       "maintainer": "𝐭𝐫𝐢𝐬𝐟"
     },
     {
-      "id": "marble",
       "name": "POCO F5 / Redmi Note 12 Turbo",
       "brand": "POCO",
       "version": "Varanus",
@@ -118,7 +105,6 @@
       "maintainer": "Maulanariaddy"
     },
     {
-      "id": "merlinx",
       "name": "Redmi Note 9",
       "brand": "Xiaomi",
       "version": "Sabre",
@@ -127,7 +113,6 @@
       "maintainer": "Luigiee"
     },
     {
-      "id": "miatoll",
       "name": "Redmi Note 9S/Pro/Pro Max & POCO M2 Pro",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -136,7 +121,6 @@
       "maintainer": "trisfproject"
     },
     {
-      "id": "mido",
       "name": "Redmi Note 4",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -145,7 +129,6 @@
       "maintainer": "BayerischeMotorenWerke"
     },
     {
-      "id": "mojito",
       "name": "Redmi Note 10",
       "brand": "Xiaomi",
       "version": "Rattle",
@@ -154,7 +137,6 @@
       "maintainer": "dblenk9"
     },
     {
-      "id": "nord",
       "name": "OnePlus Nord",
       "brand": "Oneplus",
       "version": "Sakura",
@@ -163,7 +145,6 @@
       "maintainer": "Developer"
     },
     {
-      "id": "ocean",
       "name": "Moto G7 Power",
       "brand": "Motorola",
       "version": "Sabre",
@@ -172,7 +153,6 @@
       "maintainer": "Ignacio Garcia"
     },
     {
-      "id": "olives",
       "name": "Redmi 8/8A/8A Dual",
       "brand": "Xiaomi",
       "version": "Sakura",
@@ -181,7 +161,6 @@
       "maintainer": "skittels15"
     },
     {
-      "id": "onclite",
       "name": "Redmi 7",
       "brand": "Xiaomi",
       "version": "Sweetpea",
@@ -190,7 +169,6 @@
       "maintainer": "Hadad"
     },
     {
-      "id": "op7t",
       "name": "OnePlus 7T",
       "brand": "Oneplus",
       "version": "Sweetpea",
@@ -199,7 +177,6 @@
       "maintainer": "Developer"
     },
     {
-      "id": "RMX1911",
       "name": "Realme 5",
       "brand": "Realme",
       "version": "Pantura",
@@ -208,7 +185,6 @@
       "maintainer": "henshin"
     },
     {
-      "id": "RMX1941",
       "name": "Realme C2",
       "brand": "Realme",
       "version": "Raptor",
@@ -217,7 +193,6 @@
       "maintainer": "Fraschze97"
     },
     {
-      "id": "RMX2020",
       "name": "Realme C3",
       "brand": "Realme",
       "version": "Rattle",
@@ -226,7 +201,6 @@
       "maintainer": "Felixxandi79"
     },
     {
-      "id": "RMX2030",
       "name": "Realme 5i",
       "brand": "Realme",
       "version": "Sweetpea",
@@ -235,7 +209,6 @@
       "maintainer": "henshin"
     },
     {
-      "id": "rock",
       "name": "Redmi 11 Prime / POCO M5",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -244,7 +217,6 @@
       "maintainer": "xyzuniverse"
     },
     {
-      "id": "rosy",
       "name": "Redmi 5",
       "brand": "Xiaomi",
       "version": "Rattle",
@@ -253,7 +225,6 @@
       "maintainer": "Neno"
     },
     {
-      "id": "rova",
       "name": "Redmi 4A/5A",
       "brand": "Xiaomi",
       "version": "Raptor",
@@ -262,7 +233,6 @@
       "maintainer": "ItoRenz"
     },
     {
-      "id": "sagit",
       "name": "Xiaomi Mi 6",
       "brand": "Xiaomi",
       "version": "Varanus",
@@ -271,7 +241,6 @@
       "maintainer": "deny2311"
     },
     {
-      "id": "santoni",
       "name": "Redmi 4X",
       "brand": "Xiaomi",
       "version": "Sabre",
@@ -280,7 +249,6 @@
       "maintainer": "ItoRenz"
     },
     {
-      "id": "selene",
       "name": "Redmi 10",
       "brand": "Xiaomi",
       "version": "Sabre",
@@ -289,7 +257,6 @@
       "maintainer": "mikazuuu07"
     },
     {
-      "id": "spes",
       "name": "Redmi Note 11",
       "brand": "Xiaomi",
       "version": "Pantura",
@@ -298,7 +265,6 @@
       "maintainer": "dblenk9"
     },
     {
-      "id": "surya",
       "name": "Poco X3 NFC",
       "brand": "Xiaomi",
       "version": "Sakura",
@@ -307,7 +273,6 @@
       "maintainer": ". ƒαυzαη"
     },
     {
-      "id": "sweet",
       "name": "Redmi Note 10 Pro/Max",
       "brand": "Xiaomi",
       "version": "Reptile",
@@ -316,7 +281,6 @@
       "maintainer": "Djampt"
     },
     {
-      "id": "tulip",
       "name": "Redmi Note 6 Pro",
       "brand": "Xiaomi",
       "version": "Pantura",
@@ -325,7 +289,6 @@
       "maintainer": "MOCHA"
     },
     {
-      "id": "vayu",
       "name": "POCO X3 Pro",
       "brand": "Xiaomi",
       "version": "Seroja",
@@ -334,7 +297,6 @@
       "maintainer": "alanndz"
     },
     {
-      "id": "vince",
       "name": "Redmi 5 Plus",
       "brand": "Xiaomi",
       "version": "Reptile",
@@ -343,7 +305,6 @@
       "maintainer": "Aurora"
     },
     {
-      "id": "violet",
       "name": "Redmi Note 7 Pro",
       "brand": "Xiaomi",
       "version": "Sakura",
@@ -352,7 +313,6 @@
       "maintainer": "Thunder105"
     },
     {
-      "id": "whyred",
       "name": "Redmi Note 5",
       "brand": "Xiaomi",
       "version": "Reptile",
