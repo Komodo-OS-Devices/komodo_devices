@@ -233,6 +233,14 @@
       "maintainer": "ItoRenz"
     },
     {
+      "name": "Itel RS4",
+      "brand": "Itel",
+      "version": "Varanus",
+      "androidVersion": "15.0",
+      "codename": "S666LN",
+      "maintainer": "dns24"
+    },
+    {
       "name": "Xiaomi Mi 6",
       "brand": "Xiaomi",
       "version": "Varanus",
