@@ -1,8 +1,8 @@
 {
   "maintainer": {
-  "name": "attack_dns24",
-  "telegram": "attack_dns24",
-  "github": "dns24"
+    "name": "attack_dns24",
+    "telegram": "attack_dns24",
+    "github": "dns24"
   },
   "model": "Itel RS4",
   "vendor": "Itel",
@@ -11,6 +11,6 @@
   "version": "varanus",
   "androidVersion": "15.0",
   "lastUpdated": "2025-05-28",
-  "supportGroup" : "https://t.me/KomodOSGroup",
-  "downloadUrl": ""
+  "supportGroup": "https://t.me/KomodOSGroup",
+  "downloadUrl": "https://www.pling.com/p/1861110/"
 }
